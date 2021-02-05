@@ -7,7 +7,7 @@ This widget has been developed using angular, and it depends on the system level
 Once you deploy the module, you will have the following configurations “Global Menu -> Control Panel -> System Settings -> Role Based Redirection”:
 Redirections “String”: this key is responsible for mapping the role to the landing page where the user should be redirected based on his role.
 Redirections should be passed in the following format:
-<RoleID>:<RedirectionURL>;<RoleID>:<RedirectionURL>;*N
+RoleID:RedirectionURL;RoleID:RedirectionURL;*N
 Enable “Boolean”: Activate or deactivate the redirection
 
 # Hint 
