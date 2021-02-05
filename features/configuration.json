@@ -1,0 +1,26 @@
+{
+    "$schema": "https://raw.githubusercontent.com/liferay/liferay-js-toolkit/master/resources/schemas/configuration.schema.json",
+    "system": {
+        "category": "Role-Based-Redirection",
+        "name": "Role-Based-Redirection",
+        "fields": {
+            "Redirections": {
+                "type": "string",
+                "name": "redirections",
+                "description": "Role:RedirectionURL;Role:RedirectionURL;*N",
+                "default": ""
+            },
+            "Active": {
+                "type": "boolean",
+                "name": "Enable",
+                "description": "Activate or deactivate the redirection",
+                "default": "false"
+            }
+        }
+    },
+    "portletInstance": {
+        "fields": {
+
+        }
+    }
+}
