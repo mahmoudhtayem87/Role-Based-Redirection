@@ -10,5 +10,5 @@ Redirections should be passed in the following format:
 <RoleID>:<RedirectionURL>;<RoleID>:<RedirectionURL>;*N
 Enable “Boolean”: Activate or deactivate the redirection
 
-#Hint 
+# Hint 
 once the widget is placed on a page, and the configuration key Enable has been set to  true, it will be hard to edit the page directly, so you have two options, either to go to Site Builder -> Pages and select the page and click on edit from the context menu or you can set Enable to false and edit the page
