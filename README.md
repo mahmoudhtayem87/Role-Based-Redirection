@@ -8,7 +8,7 @@ Once you deploy the module, you will have the following configurations “Global
 - Redirections “String”: this key is responsible for mapping the role to the landing page where the user should be redirected based on his role.
 - Redirections should be passed in the following format:
 RoleID:RedirectionURL;RoleID:RedirectionURL;*N
-Enable “Boolean”: Activate or deactivate the redirection
+- Enable “Boolean”: Activate or deactivate the redirection
 
 # Hint 
 once the widget is placed on a page, and the configuration key Enable has been set to  true, it will be hard to edit the page directly, so you have two options, either to go to Site Builder -> Pages and select the page and click on edit from the context menu or you can set Enable to false and edit the page
