@@ -12,3 +12,12 @@ RoleID:RedirectionURL;RoleID:RedirectionURL;*N
 
 # Hint 
 once the widget is placed on a page, and the configuration key Enable has been set to  true, it will be hard to edit the page directly, so you have two options, either to go to Site Builder -> Pages and select the page and click on edit from the context menu or you can set Enable to false and edit the page
+
+# Role Based Redirection Configuration Screen
+[![Screen-Shot-2021-02-08-at-7-32-23-AM.png](https://i.postimg.cc/xjKSV9FL/Screen-Shot-2021-02-08-at-7-32-23-AM.png)](https://postimg.cc/c64zQGWJ)
+
+# Role Based Redirection on Page (Edit Mode)
+[![Screen-Shot-2021-02-08-at-7-33-05-AM.png](https://i.postimg.cc/pLcwJrpM/Screen-Shot-2021-02-08-at-7-33-05-AM.png)](https://postimg.cc/68Rb99rM)
+
+# Role Based Redirection on Page
+[![Screen-Shot-2021-02-08-at-7-33-25-AM.png](https://i.postimg.cc/wvLnzkF9/Screen-Shot-2021-02-08-at-7-33-25-AM.png)](https://postimg.cc/G83XJGZf)
